@@ -16,6 +16,7 @@ public class Main {
             System.out.println("*");
         }
         System.out.println("*");
-        System.out.println("Demo Fork");
+        System.out.println("Demo Fork1");
+        System.out.println("Demo Fork2");
     }
 }
